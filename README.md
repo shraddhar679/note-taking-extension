@@ -45,8 +45,8 @@ dist/
 
 
 $🙋‍♂️ Author
-Vishal Sahu
-📧 vishalsahu1204@gmail.com
+Shraddha Rajput 
+📧 shraddhar679@gmail.com
 📌 Final Year B.Tech CSE Student | Passionate Developer | DSA Enthusiast
 
 #⭐ Contribute
