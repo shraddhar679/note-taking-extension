@@ -27,7 +27,7 @@ NoteSaver is a lightweight and powerful Chrome Extension that allows users to qu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vishalsahu0020/NoteSaver-Extension.git
+   git clone https://github.com/shraddha679/NoteSaver-Extension.git
 2.Open Chrome and go to chrome://extensions/
 3.Enable Developer Mode (top right)
 4.Click "Load unpacked"
@@ -47,7 +47,7 @@ dist/
 $🙋‍♂️ Author
 Shraddha Rajput 
 📧 shraddhar679@gmail.com
-📌 Final Year B.Tech CSE Student | Passionate Developer | DSA Enthusiast
+📌 Final Year B.Tech CSE Student | Passionate Developer 
 
 #⭐ Contribute
 Contributions, ideas, and feedback are welcome!
